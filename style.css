@@ -195,7 +195,7 @@ header .nav ul li:hover>a {
 }
 
 .three {
-    background-image: url(/Images/puzzle-2500328_1920.jpg);
+    background-image: url(./Images/puzzle-2500328_1920.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -206,7 +206,7 @@ header .nav ul li:hover>a {
 }
 
 .four {
-    background-image: url(/Images/Roger.jpg);
+    background-image: url(./Images/Roger.jpg);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -226,7 +226,7 @@ header .nav ul li:hover>a {
 }
 
 .five {
-    background-image: url(/Images/NewJork.jpg);
+    background-image: url(./Images/NewJork.jpg);
     background-repeat: no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
